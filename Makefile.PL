@@ -1,3 +1,4 @@
+use 5.010; #should be in both places
 use ExtUtils::MakeMaker;
 
 WriteMakefile(
